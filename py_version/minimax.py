@@ -7,7 +7,7 @@ from os import system
 
 """
 An implementation of Minimax AI Algorithm in Tic Tac Toe,
-using Python.
+using Python. yeap
 This software is available under GPL license.
 Author: Clederson Cruz
 Year: 2017
