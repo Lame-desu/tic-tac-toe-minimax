@@ -5,7 +5,6 @@ An implementation of Minimax AI Algorithm on Tic-Tac-Toe (or Noughts and Crosses
 	<img src="preview/minimax_img.png"></img>
 </p>
 
-
 github contribution
 gitHub contribution
 ## Introduction
